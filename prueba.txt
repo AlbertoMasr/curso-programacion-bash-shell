@@ -1,0 +1,5 @@
+Un archivo de prueba
+
+Para posteriormente leerlo y ver su contenido
+
+Y de esta manera validar.
